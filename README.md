@@ -1,5 +1,5 @@
 # Gomoku   
-- 注释规范
+## 一、注释规范
     ```
     //Author: 
     //EditTime: 
@@ -12,3 +12,5 @@
     //EditTime: 2019/1/15 13:39
     //Description: 1): null
     ```
+## 二、PR规范
+- 请将自己本地git的name和mail正确配置
