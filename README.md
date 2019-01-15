@@ -12,5 +12,7 @@
     //EditTime: 2019/1/15 13:39
     //Description: 1): null
     ```
-## 二、PR规范
+## 二、Push规范
+- push之前请fetch一下最新master分支
 - 请将自己本地git的name和mail正确配置
+- push时请新建分支提交，由项目相关人员review之后，再合并进master分支并删除该分支
