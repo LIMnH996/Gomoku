@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Author: HE-->
+<!--EditTime: 2019.1.16 16:13-->
+<!--Description: ChessBoard's format-->
+<resources>
+    <declare-styleable name="ChessBoard">
+        <attr name="background_picture" format="reference"/>
+    </declare-styleable>
+</resources>

@@ -5,5 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".view.GomokuActivity">
+    <!--Author: HE-->
+    <!--EditTime: 2019.1.16 16:52-->
+    <!--Description: 五子棋盘属性-->
+    <com.demo.gomoku.tool.ChessBoard
+        android:id="@+id/chess_board"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:background_picture="@drawable/back"/>
 
 </android.support.constraint.ConstraintLayout>
